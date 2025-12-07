@@ -191,5 +191,15 @@ To be added depending on project direction:
 over an 11-month research period without institutional affiliation.**
 
 For research collaboration or aerospace inquiries:  
-*(lipxtk@gmail.com)*
+*(E-mail:lipxtk@gmail.com)*
+
+---
+### ⚠️ Usage Notice (Simplified)
+
+- QTX is a research prototype, **not** a real-world launch decision system.
+- Do not use for military or defense purposes.
+- Not allowed for anonymous or non-auditable entities.
+- Runtime validated exclusively on **GPT-5.1**.
+
+By using QTX, you acknowledge these constraints.
 

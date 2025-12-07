@@ -191,5 +191,5 @@ To be added depending on project direction:
 over an 11-month research period without institutional affiliation.**
 
 For research collaboration or aerospace inquiries:  
-*(contact to be added)*
+*(lipxtk@gmail.com)*
 

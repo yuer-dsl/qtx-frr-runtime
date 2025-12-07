@@ -194,6 +194,15 @@ For research collaboration or aerospace inquiries:
 *(E-mail:lipxtk@gmail.com)*
 
 ---
+
+## 🎥 Demo Video — QTX-FRR Runtime v0.1
+
+Executable Flight Readiness Review (FRR) system running entirely inside the ChatGPT client.  
+No API. No backend. Just structured language acting as a deterministic runtime.
+
+🔗 YouTube Demo: https://youtu.be/9R6wc-LVzSc
+
+
 ### ⚠️ Usage Notice (Simplified)
 
 - QTX is a research prototype, **not** a real-world launch decision system.

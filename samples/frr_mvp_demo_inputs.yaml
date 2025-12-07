@@ -1,0 +1,8 @@
+wind: 21
+deltaT: 4
+LOX_temp: -178
+pressurization_stability: 0.67
+engine_health: 0.81
+power_status: warning
+thermal_status: nominal
+propulsion_status: warning

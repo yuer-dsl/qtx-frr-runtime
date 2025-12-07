@@ -77,5 +77,6 @@ developed independently over an 11-month period.
 
 ## 6. Contact
 For licensing inquiries or research collaboration, contact the author directly.
+e-mail:lipxtk@gmail.com
 
 ---

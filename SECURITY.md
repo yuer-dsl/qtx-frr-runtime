@@ -58,3 +58,4 @@ All intellectual property belongs solely to **Yuer (2025)**.
 
 ## 6. Contact
 For licensing or collaboration, contact the author directly.
+E-mail:lipxtk@gmail.com

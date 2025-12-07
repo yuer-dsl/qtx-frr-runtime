@@ -60,3 +60,40 @@ QTX is an original work created in 2024–2025.
 See `/docs/Author_Origin_Statement.md`.
 
 ---
+
+# QuantiumX (QTX) — High-Sensitivity Technology Governance Statement
+
+QuantiumX (QTX) is an aerospace risk analysis and FRR automation research
+framework developed by an independent AGI architect following eleven months
+of continuous system-level experimentation, modeling, and validation.
+
+Given the potential dual-use and high-impact nature of automated risk
+assessment technologies in aerospace, this statement defines the ethical,
+legal, and governance boundaries of QTX:
+
+1. **Prohibited Entities**
+   QTX shall not be licensed, transferred, or made available to any
+   unverified, anonymous, or non-auditable individual or organization.
+
+2. **Prohibited Domains**
+   QTX shall not be deployed in military, defense, intelligence, or
+   weapons platforms unless under explicit legal, bilateral, and
+   transparent agreements recognized by international law.
+
+3. **Decision Authority Restrictions**
+   QTX may not be used as a final arbiter for any real-world launch,
+   scrubbing, or mission-critical go/no-go determination. Certified human
+   authorities must retain full responsibility.
+
+4. **No Shadow Deployment**
+   No “private authorization,” covert usage, backdoor integration, or
+   deployment without contractual traceability is permitted.
+
+5. **Model Compatibility Restriction**
+   The QTX Runtime is validated exclusively on **GPT-5.1**. Use on other
+   models voids all guarantees, safety assumptions, interpretability
+   properties, and responsibility frameworks.
+
+These guidelines exist to protect global safety, the integrity of this
+research, and the developer.
+
